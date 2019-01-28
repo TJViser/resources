@@ -48,6 +48,15 @@
 - [Picsum](https://picsum.photos/)
 
 
+## Scripts
+
+- [Animate.css](https://daneden.github.io/animate.css/)
+- [Anime.js](https://animejs.com/)
+- [Numscroller.js](http://demo.tinywall.net/numscroller/)
+- [Particles.js](https://vincentgarreau.com/particles.js/)
+- [Typed.js](https://mattboldt.com/demos/typed-js/)
+
+
 ## Bunch of stuff 
 
 - [Icon8](https://icones8.fr/)
