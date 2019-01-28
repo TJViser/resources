@@ -18,6 +18,7 @@
 - [CallToIdea](https://calltoidea.com/)
 - [Pages.xyz](https://www.pages.xyz)
 - [BetaList](https://betalist.com/)
+- [Tympanus](https://tympanus.net/codrops/)
 
 ## Colors 
 
@@ -55,6 +56,7 @@
 - [Numscroller.js](http://demo.tinywall.net/numscroller/)
 - [Particles.js](https://vincentgarreau.com/particles.js/)
 - [Typed.js](https://mattboldt.com/demos/typed-js/)
+- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
 
 
 ## Bunch of stuff 
