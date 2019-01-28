@@ -60,6 +60,10 @@
 - [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
 
 
+## Maps
+
+- [SnazzyMaps](https://snazzymaps.com)
+
 ## Bunch of stuff 
 
 - [Icon8](https://icones8.fr/)
