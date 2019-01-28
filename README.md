@@ -16,6 +16,7 @@
 - [Awwwards](https://www.awwwards.com/)
 - [UImovemenr](https://uimovement.com/)
 - [CallToIdea](https://calltoidea.com/)
+- [Pages.xyz](https://www.pages.xyz)
 - [BetaList](https://betalist.com/)
 
 ## Colors 
@@ -23,4 +24,17 @@
 - [Coolors](https://coolors.co)
 - [Colorhunt](https://colorhunt.co)
 - [UIGradients](https://uigradients.com)
+- [Gradients](https://gradients.cssgears.com)
+- [Picular](https://picular.co/)
 
+## Fonts 
+
+- [Fontpair](https://fontpair.co/)
+
+## Icons 
+
+- [Undraw](https://undraw.co)
+
+## Pictures 
+
+- [Picsum](https://picsum.photos/)
