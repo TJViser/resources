@@ -30,6 +30,7 @@
 
 ## Fonts 
 
+- [Google Fonts](https://fonts.google.com/)
 - [Fontpair](https://fontpair.co/)
 
 ## Icons 
