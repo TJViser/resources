@@ -42,6 +42,9 @@
 
 ## Pictures 
 
+- [Flickr](https://www.flickr.com)
+- [Unsplash](https://unsplash.com)
+- [Pexels](https://www.pexels.com)
 - [Picsum](https://picsum.photos/)
 
 
