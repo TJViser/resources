@@ -69,3 +69,6 @@
 
 - [Icon8](https://icones8.fr/)
 - [CodePen](https://codepen.io/)
+- [Mailchimp](https://mailchimp.com/)
+- [TypeForm](https://www.typeform.com/)
+- [Zapier](https://zapier.com/)
