@@ -58,6 +58,7 @@
 - [Particles.js](https://vincentgarreau.com/particles.js/)
 - [Typed.js](https://mattboldt.com/demos/typed-js/)
 - [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+- [Parallax](http://pixelcog.github.io/parallax.js/)
 
 
 ## Maps
