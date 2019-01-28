@@ -33,8 +33,18 @@
 
 ## Icons 
 
+- [FontAwesome](https://fontawesome.com/)
+- [The Noun Project](https://thenounproject.com/)
+- [Flat Icon](https://www.flaticon.com/)
+- [Icon Store](https://iconstore.co/)
 - [Undraw](https://undraw.co)
+
 
 ## Pictures 
 
 - [Picsum](https://picsum.photos/)
+
+
+## Bunch of stuff 
+
+- [Icon8](https://icones8.fr/)
